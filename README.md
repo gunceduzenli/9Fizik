@@ -46,4 +46,4 @@
  |Ebrişim Düzenli (Annem)|19,48 kg/m2|
  |Muhammed Ali Düzenli (Babam)|25,46 kg/m2|
  |Derin Su Düzenli (Kardeşim)|20,47 kg/m2|
- 
+  
